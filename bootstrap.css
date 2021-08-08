@@ -1,0 +1,17 @@
+ a:hover {
+  color:red;
+  }
+
+footer {
+  text-align:center;
+  font-size:10px;
+  clear:both;
+  width:100%;
+  font-family: verdana;
+  color: black;
+  background-color: white;
+  border-top: 1px solid black;
+  padding: 10px;
+  margin:15px;
+  
+}
