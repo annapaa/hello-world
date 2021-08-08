@@ -15,3 +15,10 @@ footer {
   margin:15px;
   
 }
+
+
+background {
+ background: url(https://cdn.pixabay.com/photo/2018/01/31/10/46/flower-3120820_1280.jpg);
+ opasity: 0.6;
+ background-size:cover;
+}
