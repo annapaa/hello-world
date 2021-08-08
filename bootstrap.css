@@ -21,3 +21,8 @@ footer {
  opacity: 0.6;
  background-size:cover;
 }
+
+#keskitetty {
+ text-align:center;
+ font-family: verdana;
+}
