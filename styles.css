@@ -38,13 +38,13 @@
 
 footer {
   text-align:center;
-  font-size:10px;
+  font-size:15px;
   clear:both;
   width:100%;
   font-family: verdana;
   color: black;
-  border-top: 1px solid black;
-  padding: 10px;
+  border-top: 2px solid black;
+  padding:10px;
   margin:15px;
   
 }
