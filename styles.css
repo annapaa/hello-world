@@ -1,3 +1,11 @@
+.card-deck {
+  border: 1px;
+  padding: 10px;
+  box-shadow: 3px 2px 5px lightgray;
+}
+
+
+
 
 footer {
   text-align:center;
