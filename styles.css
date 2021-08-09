@@ -2,17 +2,17 @@
   color:black;
   background-color:white;
   opacity:0.5;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 p {
-  font-size: 12px;
+  font-size: 14px;
   padding: 8px;
   margin: 8px;
 }
 
 .card-text {
-  font-size:10px;
+  font-size:12px;
 }
 
 #hyvinvoiva {
