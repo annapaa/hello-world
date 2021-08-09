@@ -36,10 +36,30 @@ footer {
  background-repeat:no-repeat;
 }
 
-#keskitetty {
+#keskitetty1 {
  text-align:center;
  font-family: verdana;
 }
+
+#keskitetty2 {
+ text-align:center;
+ font-family: verdana;
+}
+#keskitetty3 {
+ text-align:center;
+ font-family: verdana;
+}
+#keskitetty4 {
+ text-align:center;
+ font-family: verdana;
+}
+#keskitetty5 {
+ text-align:center;
+ font-family: verdana;
+}
+
+
+
 #btn-back-to-top {
   position: fixed;
   bottom: 20px;
