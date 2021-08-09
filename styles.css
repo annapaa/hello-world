@@ -11,6 +11,9 @@ p {
   margin: 8px;
 }
 
+.card-text {
+  font-size:10px;
+}
 
 #hyvinvoiva {
   text-shadow: 2px 2px lightgray;
