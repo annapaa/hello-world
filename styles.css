@@ -4,6 +4,13 @@
   box-shadow: 3px 2px 5px lightgray;
 }
 
+.form-group {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
 
 
 
