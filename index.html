@@ -184,22 +184,30 @@
     <h4>Lähetä viesti alta</h4>
     
 
-  <form>
-  
-      <label>Nimi</label>
-      <input type="text" class="form-control col-sm-4" id="nimi">
-      <br>
-      <label>Sähköposti</label>
-      <input type="text" class="form-control col-sm-4" id="sposti">
-      <br>
-      <h4>Viestisi</h4>
-      <textarea rows="4" cols="80" name="comment" class="col-sm-4">
-      </textarea>
-      <br><br>
-  <button type="submit" class="btn btn-primary">Lähetä</button>   
-   <br>
-    
-</form>
+<div class="d-flex justify-content-center align-items-center container ">
+
+    <div class="row ">
+        <form action="">
+            <div class="form-group">
+                <label for="nimi" class="control-label">Nimi</label>
+                <input type="text" class="form-control"> 
+            </div>
+            <div class="form-group">
+                <label for="sähköposti" class="control-label">Sähköposti</label>
+                <input type="text" class="form-control">
+            </div>
+             <div class="form-group">
+            	<p>Viestisi</p>
+      			<textarea rows="4" cols="80" name="comment">
+      			</textarea>
+             </div>
+      		<br><br>
+  			<button type="submit" class="btn btn-primary">Lähetä</button>  
+        </form>
+
+    </div>
+
+</div>
     
     </div>
     
